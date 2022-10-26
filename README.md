@@ -1,7 +1,7 @@
 ## Overview of the Analysis
 
 Investing in the surf up business in hawai a Surf and Shake shop serving surfboards and ice cream to locals and tourists. We'll need some real investor backing to get this off the ground. So after putting together a strong business plan, we  reach out to an investor, W. Avy, who is famous for his love of surfing.
-So we are doing weather analysis for last 5 -6 years and creating the descriptive analysis for the investor.
+So we are doing weather analysis for last 5-6 years and creating the descriptive analysis for the investor.
 
 
 ## Results
@@ -12,16 +12,16 @@ The key differences between the weather temperatures in month of June and Decemb
 
 ![alt text](Resources/june.png)
 
-* Max temperature in June is 85 F while in the December month Max temperature is 83 F almost same. 
+* Max temperature in June is 85 F. While in the month of December also, max temperature is 83 F which is almost same. 
 
 
 
 ![alt text](Resources/temp.png)
 
 * Also we can infer that major difference is in the minimum temperatures of both the months 
-we can see that min temp in June is 64 f while in December is much cooler with min temp of 56 f. It can be analysed that December is colder compared to June 
+we can see that min temp in June is 64 F while in December is much cooler with min temp of 56 F. It can be analysed that December is colder compared to June 
 
-* Mean temperatures for both the months are also almost same with no major differences. So this location temperature is almost stable
+* Mean temperatures for both the months are also almost same with no major differences. So this location temperature is almost stable.
 
 ### December Temps
 
